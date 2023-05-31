@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "title": "Jay Swaminarayan Aarti for Morning",
+    "artist": "Sant Vrund",
+    "imagesource": "https://pbs.twimg.com/media/E6o5XbLXsAAxAXz.jpg",
+    "audiosource": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/Shri_Swaminarayan_Arti_with_Ashtak_for_Morning_001.mp3"
+  },
+  {
+    "id": 1,
+    "title": "Jay Swaminarayan Aarti for Evening",
+    "artist": "Sant Vrund",
+    "imagesource": "https://pbs.twimg.com/media/DWIa_fzVwAA01Nw.jpgg",
+    "audiosource": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/Shri_Swaminarayan_Arti_with_Ashtak_for_Evening_001.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Swaminarayan Dhun",
+    "artist": "Sant-Haribhakto Vrund",
+    "imagesource": "assets/swam.jpg",
+    "audiosource": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/BAPS_Swaminarayan_Dhun.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Jamo Thal Jivan Javu Vari",
+    "artist": "Sant Vrund",
+    "imagesource": "assets/thal.jpg",
+    "audiosource": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/BAPS_Swaminarayan_Thal.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Chesta Gaan",
+    "artist": "Pramukh Swami Maharaj and Sant Vrund",
+    "imagesource": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/1900/WebImages/05f.jpg",
+    "audiosource": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/cheshta.mp3"
+  }
+]
