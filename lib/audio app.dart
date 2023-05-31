@@ -60,7 +60,7 @@ class _audioappState extends State<audioapp> {
         Uri.parse(
             'https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/Shri_Swaminarayan_Arti_with_Ashtak_for_Morning_001.mp3'),
         tag: MediaItem(
-          id: "1",
+          id: "0",
           title: "Jay Swaminarayan Aarti for Morning",
           artist: "Sant Vrund",
           artUri: Uri.parse("https://pbs.twimg.com/media/E6o5XbLXsAAxAXz.jpg"),
